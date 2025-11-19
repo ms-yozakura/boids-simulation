@@ -1,11 +1,11 @@
 
 ## $概要
 
-三次元空間におけるBoidモデルをシミュレーションし、その描画をおこなうプロジェクトです。<br>
-学校のプログラミング実践演習での課題にて、openGLとopenMPをつかった統合プロジェクトとして作成しました。
+三次元空間におけるBoidモデルをシミュレーションし、その描画をおこなうプロジェクトです<br>
+学校のプログラミング実践演習での課題にて、openGLとopenMPをつかった統合プロジェクトとして作成しました
 
 ## $動作環境
-MacBook Air 第２世代（Apple Silicon M2: macOS15.5）にて動作確認済み。
+MacBook Air 第２世代（Apple Silicon M2: macOS15.5）にて動作確認済み
 
 ## $使用ライブラリ
 
@@ -22,7 +22,7 @@ MacBook Air 第２世代（Apple Silicon M2: macOS15.5）にて動作確認済�
 
 ターミナル上で
 
->% cd flocking_vx %xは任意のバージョン\
+>% cd flocking_v4 \
 % mkdir build %buildが存在しないときは行ってください\
 % cd build\
 % cmake .. \
